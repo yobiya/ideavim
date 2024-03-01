@@ -1,0 +1,6 @@
+nn <C-J> :
+nn <C-K> *
+nn <C-H> ^
+nn <C-L> $
+nn <C-I><C-I> p
+nn <C-S-I><C-S-I> P
