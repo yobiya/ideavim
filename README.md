@@ -1,0 +1,2 @@
+# ideavim
+IdeaVimの設定
