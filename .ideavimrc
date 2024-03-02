@@ -4,3 +4,23 @@ nn <C-H> ^
 nn <C-L> $
 nn <C-I><C-I> p
 nn <C-S-I><C-S-I> P
+
+" easymotionの設定
+let mapleader="\<Space>"
+set easymotion
+
+nm <leader>f <Plug>(easymotion-f)
+nm <leader>F <Plug>(easymotion-F)
+nm <leader>t <Plug>(easymotion-t)
+nm <leader>T <Plug>(easymotion-T)
+nm <leader>w <Plug>(easymotion-w)
+nm <leader>W <Plug>(easymotion-W)
+nm <leader>b <Plug>(easymotion-b)
+nm <leader>B <Plug>(easymotion-B)
+nm <leader>e <Plug>(easymotion-e)
+nm <leader>E <Plug>(easymotion-E)
+nm <leader>j <Plug>(easymotion-j)
+nm <leader>k <Plug>(easymotion-k)
+nm <leader>n <Plug>(easymotion-n)
+nm <leader>N <Plug>(easymotion-N)
+nm <leader>s <Plug>(easymotion-f2)
